@@ -2,7 +2,7 @@ const projectList = [
   {
     name: 'React',
     imageSrc: 'https://camo.githubusercontent.com/22045498095171997ccf6a9554672519b9f67898/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742e737667',
-    githubLink: 'https://github.com/facebook/react/issues?q=is%3Aissue+is%3Aopen+label%3A%22Difficulty%3A+beginner%22',
+    githubLink: 'https://github.com/facebook/react/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'A declarative, efficient, and flexible JavaScript library for building user interfaces.',
     tags: ['JavaScript', 'UI', 'Web App'],
   }, {
@@ -97,7 +97,7 @@ const projectList = [
   }, {
     name: 'Coala',
     imageSrc: 'https://avatars2.githubusercontent.com/u/10620750?v=3&s=100',
-    githubLink: 'https://github.com/coala/coala/issues?q=is%3Aopen+is%3Aissue+label%3Adifficulty%2Flow+label%3Adifficulty%2Fnewcomer',
+    githubLink: 'https://coala.io/new',
     description: 'Unified command-line interface for linting and fixing all your code.',
     tags: ['UX', 'Linter', 'Python'],
   }, {
@@ -172,7 +172,7 @@ const projectList = [
   }, {
     name: 'Semantic-UI-React',
     imageSrc:
-      'https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/app/logo.png',
+      'https://avatars1.githubusercontent.com/u/5796209?s=200&v=4',
     githubLink:
       'https://github.com/Semantic-Org/Semantic-UI-React/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
     description: 'The official Semantic-UI-React integration.',
@@ -186,7 +186,7 @@ const projectList = [
   }, {
     name: 'RubyGems ecosystem',
     imageSrc: 'https://avatars.githubusercontent.com/u/17981340',
-    githubLink: 'https://github.com/rubygems/contribute'(Read-only),
+    githubLink: 'https://github.com/rubygems/contribute',
     description: 'One site to show all related RubyGems ecosystem projects and help developers get involved.',
     tags: ['Ruby', 'Rubygems'],
   }, {
@@ -359,7 +359,7 @@ const projectList = [
   },
   {
     name: 'Kubernetes',
-    imageSrc: 'https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png',
+    imageSrc: 'https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png',
     githubLink: 'https://github.com/kubernetes',
     description: 'Production-Grade Container Scheduling and Management',
     tags: ['Go', 'Container','Orchestration'],
@@ -367,13 +367,70 @@ const projectList = [
 
   {
     name:'Movie-Stream',
-    imageSrc:'https://ibb.co/bFroZH',
+    imageSrc:'https://image.ibb.co/faTroc/movie_stream.png',
     githubLink:'https://github.com/hrishi7/streamIt',
     description:'Provides Online free movie streaming service with adfree. flexible for mobile also',
     tags:['Web development','HTML','Javascript','API','CSS','Bootstrap']
+  },
+  {
+    name: 'ethereum',
+    imageSrc: 'https://avatars1.githubusercontent.com/u/6250754?s=200&v=4',
+    githubLink: 'https://github.com/ethereum/',
+    description: 'Ethereum is a decentralized platform that runs smart contracts applications.',
+    tags: ['Go', 'C++', 'Solidity','Python', 'Shell', 'Java'
+    ]
+  },
+  {
+    name: 'Rust Lang Nursery',
+    imageSrc: 'https://avatars2.githubusercontent.com/u/14631425?s=200&v=4',
+    githubLink: 'https://github.com/rust-lang-nursery/rust-clippy/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
+    description: 'A collection of lints to catch common mistakes and improve your Rust code.',
+    tags: ['Rust','Compiler','Parser','Mentors'
+    ]
+  },
+  {
+    name: 'probot',
+    imageSrc: 'https://avatars2.githubusercontent.com/u/26350515?s=400&v=4',
+    githubLink: 'https://github.com/probot/probot',
+    description: 'Probot is a framework for building Github Apps in Node.js',
+    tags: ['Node.js','Github','Javascript']
+  },
+  {
+    name: 'Open Data Kit',
+    imageSrc: 'https://opendatakit.org/assets/images/logo.png',
+    githubLink: 'https://github.com/opendatakit',
+    description: 'Free and open-source set of tools for collecting data in challenging environments.',
+    tags: ['Open Source','Software','JAVA', 'Android']
+  },
+  {
+    name: 'Sugar Labs',
+    imageSrc: 'https://avatars3.githubusercontent.com/u/3996398?s=280&v=4',
+    githubLink: 'https://github.com/sugarlabs',
+    description: 'Learning Software for children.',
+    tags: ['Ubuntu','Rasberry Pi','Debian','Fedora']
+  },
+  {
+    name: 'Jupyter Hub',
+    imageSrc: 'https://avatars2.githubusercontent.com/u/17927519?s=400&v=4',
+    githubLink: 'https://github.com/jupyterhub/jupyterhub',
+    description: 'A multi-user Hub, spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.',
+    tags: ['Proxy Server','Python','REST API']
+  },
+  {
+    name: 'Allenai',
+    imageSrc: 'https://news.cs.washington.edu/wp-content/uploads/2015/10/AI2-logo-300x300.png',
+    githubLink: 'https://github.com/allenai/allennlp',
+    description: 'conducts high-impact research and engineering to tackle key problems in artificial intelligence.',
+    tags: ['Artificial Intelligence','Python','NLP']
+  },
+  {
+    name: 'Qute Browser',
+    imageSrc: 'https://avatars1.githubusercontent.com/u/21955151?s=200&v=4',
+    githubLink:
+      'https://github.com/qutebrowser/qutebrowser',
+    description: 'A keyboard-driven, vim-like browser based on PyQt5',
+    tags: ['Python','Qt','pyqt5','Vim','Browser','qtWebEngine','web']
   }
-  
-  
 
 ];
 export default projectList;

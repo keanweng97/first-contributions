@@ -21,12 +21,15 @@
 | 🇬🇷 | [ελληνικά](translations/README.gr.md) |
 | العربية | [العربية](translations/README.ar.md) |
 | 🇺🇦 | [Українська](translations/README.ua.md) |
-| 🇵🇹 🇧🇷 | [Português](translations/README.pt_br.md) |
+| 🇧🇷 | [Português (Brasil)](translations/README.pt_br.md) |
+| 🇵🇹 | [Português (Portugal)](translations/README.pt-pt.md) |
 | 🇮🇹 | [Italiano](translations/README.it.md)
 | 🇹🇭 | [ภาษาไทย](translations/README.th.md) |
 | 🏴󠁥󠁳󠁧󠁡󠁿 | [Galego](translations/README.gl.md) |
 | 🇵🇰 | [اردو](translations/README.ur.md) |
-| :bangladesh:| [Bangla](translations/README.bn.md) |
-| :moldova: :romania: | [Limba Română](translations/README.ro.md) |
+| 🇧🇩| [Bangla](translations/README.bn.md) |
+| 🇲🇩 🇷🇴 | [Limba Română](translations/README.ro.md) |
 | :uk: | [English](README.md) |
 | 🇹🇷 | [Turkish](translations/README.tr.md) |
+| 🇮🇱 | [עברית](translations/README.hb.md) |
+| 🇸🇪 | [Swedish](translations/README.se.md) |
